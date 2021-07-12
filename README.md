@@ -1,5 +1,5 @@
 <a href="https://github.com/rsrussell36" target="_blank">
-<img src="https://github.com/rsrussell36/rsrussell36/blob/05c7b396e723208dae01a84f7bc2c74d6329fe8a/russell.png" alt="profile" />
+<img src="https://github.com/abu-sayed-russell/abu-sayed-russell/blob/main/russell.png" alt="profile" />
 </a>
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
